@@ -1,0 +1,16 @@
+[
+{
+  "modid": "theholycollection",
+  "name": "The Holy Collection Mod",
+  "description": "This mod brings the super-natural abilities of Biblical Characters such as Jesus and Moses to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dean Van Greunen [X3R0]"],
+  "credits": "Thanks to the Forge, FML guys and cubicoder, for making this possible, I couldn't have done it without them",
+  "logoFile": "theholycollection.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
